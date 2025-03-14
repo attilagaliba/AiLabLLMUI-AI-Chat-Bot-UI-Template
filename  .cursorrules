@@ -1,0 +1,9 @@
+- Proje bir AI Chat uygulamasının UI'ıdır.
+- ./cloneU.png görselindeki ui tasarımını klonlayın.
+- Renkler ve fontlar ./cloneU.png görselindeki ui tasarımı ile birebir aynı olmalı.
+- ./cloneU.png görselindeki ui tasarımındaki yerleşimler ve büyüklükleri de aynı olmalı.
+- ./cloneU.png görselindeki ui tasarımındaki butonların ve diğer elemanların davranışları da aynı olmalı.
+- ./cloneU.png görselindeki ui tasarımındaki tüm komponentler parçalanmalı ve her bir parça ayrı ayrı kodlanmalı.
+- Gerekli olan görselleri unsplash sitesinden alınmalı.
+- Gerekli olan fontlar google fonts sitesinden alınmalı.
+- Gerekli olan animasyonlar css ile yapılmalı.
