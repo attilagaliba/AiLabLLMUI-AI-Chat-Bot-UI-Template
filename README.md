@@ -98,8 +98,8 @@ src/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-chat-lab.git
-cd ai-chat-lab
+git clone https://github.com/attilagaliba/ailabllmui.git
+cd ailabllmui
 ```
 
 2. **Install dependencies**
