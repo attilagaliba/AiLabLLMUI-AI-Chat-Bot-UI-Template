@@ -2,7 +2,7 @@
 
 <div align="center">
   AILab LLM Ui
-  
+  <img src="https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/2e8eaed2-4a2a-4e01-4ddf-f350746d2a00/rectcontain3" width="100%">
   ![Next.js](https://img.shields.io/badge/Next.js-14.1.3-black)
   ![React](https://img.shields.io/badge/React-18.0.0-blue)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue)
