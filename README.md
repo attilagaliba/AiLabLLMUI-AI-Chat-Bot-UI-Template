@@ -8,6 +8,8 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0.3-ff69b4)
 </div>
+
+
   <img src="https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/2e8eaed2-4a2a-4e01-4ddf-f350746d2a00/rectcontain3" width="100%">
 
 ## 🌟 Features
