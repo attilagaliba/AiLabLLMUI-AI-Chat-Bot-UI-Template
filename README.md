@@ -1,4 +1,4 @@
-# 🤖 AI Chat Lab - Next Generation Chat Platform
+# 🤖 AI Chat Lab - AI Chat Bot Template
 
 <div align="center">
   AILab LLM Ui
